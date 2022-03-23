@@ -1,0 +1,16 @@
+[{
+	"Host raw": "nwetworksetting",
+	"Name raw": "poe",
+	"Path raw": "/",
+	"Content raw": "connection",
+	"Expires": "23-03-2022 11:41:29",
+	"Expires raw": "1648006889",
+	"Send for": "Any type of connection",
+	"Send for raw": "false",
+	"HTTP only raw": "false",
+	"SameSite raw": "no_restriction",
+	"This domain only": "Valid for subdomains",
+	"This domain only raw": "false",
+	"Store raw": "private_key",
+	"First Party Domain": "poesmoother.ua"
+}]
