@@ -1,5 +1,5 @@
 # PoeSmoother PRO for Siege of the Atlas - v3.17.4b - Released.!
-![QP6p5Mw](https://user-images.githubusercontent.com/98226299/159750641-537c1e8a-5b07-4b3d-b953-f85889f5f325.png)
+![QP6p5Mw](https://user-images.githubusercontent.com/98226299/167300984-90165d5a-2298-456f-9c5d-0df315147f76.png)
 - Auto updates for tool and for any new patch!
 - Updates ready in 10-15 minutes after new patch release!
 - Ignore list with support for full path.
