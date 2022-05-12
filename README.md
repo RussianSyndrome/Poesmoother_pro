@@ -1,4 +1,4 @@
-# PoeSmoother PRO for Siege of the Atlas - v3.17.4 - Released.!
+# PoeSmoother PRO for Siege of the Atlas And New league Sentinel - v3.17.4 - Released.!
 ![QP6p5Mw](https://user-images.githubusercontent.com/98226299/167300984-90165d5a-2298-456f-9c5d-0df315147f76.png)
 - Auto updates for tool and for any new patch!
 - Updates ready in 10-15 minutes after new patch release!
